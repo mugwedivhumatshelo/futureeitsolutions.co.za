@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://futureeitsolutions.co.za/sitemap.xml
